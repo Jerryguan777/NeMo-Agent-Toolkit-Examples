@@ -1,5 +1,8 @@
 ###### Place new entries directly below this line! ######
 
+# GAIA benchmark attachments (binary files)
+examples/sandbox_agent/src/nat_sandbox_agent/data/attachments/
+
 # auto-generated chainlit stuff
 chainlit.md
 .chainlit
